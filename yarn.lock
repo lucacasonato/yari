@@ -15745,6 +15745,11 @@ react-router@6.0.0-beta.0:
   dependencies:
     prop-types "^15.7.2"
 
+react-router@6.0.0-beta.8:
+  version "6.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-6.0.0-beta.8.tgz#99d570b0eaadac9af590e08fd8229d8c3f5558fd"
+  integrity sha512-pn3j01FA44yWP5gaHvz3CMVjFnmg5NS/BQ5IIalY7jw2yEKgr+OHB1gxTorakpiMaPOXXbfyUt3t4yZ4UBwE5Q==
+
 react-scripts@4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-4.0.3.tgz#b1cafed7c3fa603e7628ba0f187787964cb5d345"
